@@ -37,6 +37,7 @@ struct ContentView: View {
         } detail: {
             Text("Select an item")
         }
+        .navigationTitle("Time Stamp List")
     }
 
     private func addItem() {
