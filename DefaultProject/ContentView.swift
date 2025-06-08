@@ -37,7 +37,7 @@ struct ContentView: View {
         } detail: {
             Text("Select an item")
         }
-        .navigationTitle("Time Stamp Title")
+        .navigationTitle("Time Stamp")
     }
 
     private func addItem() {
